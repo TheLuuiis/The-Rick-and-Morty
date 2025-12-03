@@ -30,7 +30,7 @@ window.addEventListener('DOMContentLoaded', () => {
     media.addEventListener('change', (e) => setTheme(e.matches ? 'light' : 'dark'));
   }
 
-
+  /* API */
   const titles = document.querySelectorAll('.title');
   const alives = document.querySelectorAll('.alive');
   const imgs = document.querySelectorAll('.img');
