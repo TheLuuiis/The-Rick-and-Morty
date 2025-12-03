@@ -260,6 +260,17 @@ body {
   font-family: var(--fontFamily);
 }
 
+/* Autor: adapta color según tema (light/dark) */
+.author {
+  color: var(--text) !important;
+}
+
+/* Si author contiene enlaces, asegúrate de heredar el color del tema */
+.author a {
+  color: var(--text);
+  text-decoration: none;
+}
+
 .pages {
   width: 200px;
   height: auto;
