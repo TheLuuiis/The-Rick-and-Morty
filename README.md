@@ -1,6 +1,6 @@
 # The Rick and Morty — Web Cards
 
-# Link de la web (GitHub Page): https://theluuiis.github.io/The-Rick-and-Morty/
+<h3>Link de la web (GitHub Page): https://theluuiis.github.io/The-Rick-and-Morty/</h3>
 
 Proyecto web que consume la API pública de Rick and Morty para mostrar tarjetas de personajes con datos clave. Incluye tema claro/oscuro con transición suave y paginación manual entre páginas, todo en HTML/CSS/JS sin frameworks.
 
